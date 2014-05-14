@@ -6,6 +6,10 @@
 #
 # (c) 2003-2010, 2013 Piotr Roszatycki <dexter@debian.org>, LGPL
 
+# Test
+
+# Test 2
+
 use strict;
 
 my @Libs = ();
